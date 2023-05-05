@@ -3,6 +3,10 @@ ul {
  margin-right:60%;
 }
 
+li.red {
+	color: red;
+}
+
 #list {
  float:right;
  margin-right:60%;
